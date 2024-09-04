@@ -1,2 +1,1 @@
-# graphql-api
-GraphQL books API
+# Book Search Engine Starter Code
